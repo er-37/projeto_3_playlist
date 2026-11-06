@@ -1,0 +1,48 @@
+{
+    "estilos" : {
+        "ambiente" : {
+            "Artistas" : {
+                "som de ventilador" : {
+                    "video" : "https://www.youtube.com/watch?v=DTmWqOjSnfg&t=3s&pp=ygUdc29tIGRlIHZlbnRpbGFkb3IgcGFyYSBkb3JtaXI%3D",
+                    "sobre" : "meu_terapeuta.txt"
+                },
+                "relax sound" : {
+                    "video" : "https://www.youtube.com/watch?v=_F7j1Td5TTQ&pp=ygUMc29tIGRlIGNodXZh",
+                    "sobre" : "relax_sound.txt"
+                }
+            }
+        },
+        "Rock" : {
+            "Artistas" : {
+                "Nirvana" : {
+                    "video" : "https://www.youtube.com/watch?v=fregObNcHC8&list=RDfregObNcHC8&start_radio=1&pp=ygUadGhlIG1hbiB3aG8gc29sZCB0aGUgd29ybGSgBwE%3D",
+                    "sobre" : "nirvana.txt"
+                },
+                "Radiohead" : {
+                    "video" : "https://www.youtube.com/watch?v=ZVgHPSyEIqk&list=RDZVgHPSyEIqk&start_radio=1&pp=ygUIbGV0IGRvd26gBwHSBwkJPwsBhyohjO8%3D",
+                    "sobre" : "radiohead.txt"
+                }
+            }
+        },
+        "minimalismo" : {
+            "Artistas" : {
+                "C418" : {
+                    "video" : "https://www.youtube.com/watch?v=DZ47H84Bc_Q&list=RDDZ47H84Bc_Q&start_radio=1&pp=ygUNbWljZSBvbiB2ZW51c6AHAQ%3D%3D",
+                    "sobre" : "c418.txt"
+                },
+                "Tomas Sakalauskas" : {
+                    "video" : "https://www.youtube.com/watch?v=UfOrhplhy54&list=RDUfOrhplhy54&start_radio=1&pp=ygUZY2xlYXIgc2t5IGh1bWFuIGZhbGwgZmFsdKAHAQ%3D%3D",
+                    "sobre" : "tomas.txt"
+                }
+            }
+        },
+        "soft rock" : {
+            "Artistas" : {
+                "ABBA" : {
+                    "video" : "https://www.youtube.com/watch?v=92cwKCU8Z5c&list=RD92cwKCU8Z5c&start_radio=1&pp=ygUXdGhlIHdpbm5lciB0YWtlcyBpdCBhbGygBwE%3D",
+                    "sobre" : "abba.txt"
+                }
+            }
+        }
+    }
+}
